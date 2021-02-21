@@ -1,3 +1,41 @@
-body{
-    background-color: aqua;
+.presentacion{
+  
+}
+
+.descripcion{
+    height: 200px;
+    background-color: #7299fe;
+}
+
+h4{
+    color: white;
+}
+
+.cursos{
+    background-color: #9022ff;
+}
+
+.secciones{
+    background-color: #ffd233;
+}
+
+.clientes{
+    background-color: #3f4e62;
+}
+
+.formulario{
+   background-color: #1687a0;
+}
+
+h5{
+    color: red;
+}
+
+.enviar{
+    background-color: #3f4e62;
+}
+
+button{
+    background-color: #d16eff;
+    color: white;
 }
