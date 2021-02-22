@@ -1,3 +1,9 @@
+.contenedor{
+    max-width: 2000px;
+    margin: 0 auto;
+}
+
+
 h1{
     position: absolute;
     width: 321px;
