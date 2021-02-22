@@ -1,9 +1,8 @@
 
 *{
         max-width: 1200px;
-        box-sizing: border-box;
         margin: auto;
-        padding: auto;
+        /* padding: auto; */
        
         }
 h1{
@@ -22,10 +21,11 @@ h1{
 }
 
 .presentacion img{
-    position: absolute;
-    width: 100%;
-
+    /* position: absolute; */
+  width: 100vw;
+  
 }
+
 
 .presentacion p{
     
@@ -48,7 +48,7 @@ text-align: center;
 
 .descripcion{
     position: absolute;
-width: 100%;
+    width: 100vw;
 height: 433px;
 left: 75px;
 top: 656px;
@@ -107,12 +107,10 @@ color: #FFFFFF;
 
 .cursos{
 position: absolute;
-width: 100%;
+width: 100vw;
 height: 425px;
 top: 1089px;
 background: #9122FF;
-display: flex;
-justify-content: space-evenly;
 }
 
 .cursos h2{
@@ -162,7 +160,7 @@ margin: 5px;
 }
 .portafolio{
 position: absolute;
-width: 100%;
+width: 100vw;
 height: 424px;
 left: 75px;
 top: 1513px;
@@ -198,7 +196,7 @@ color: #00AD84;
 .clientes{
     
 position: absolute;
-width: 100%;
+width: 100vw;
 height: 258px;
 left: 75px;
 top: 1937px;
@@ -223,7 +221,7 @@ color: #ADFF28;
 
 .formulario{
     position: absolute;
-width: 100%;
+width: 100vw;
 height: 578px;
 left: 75px;
 top: 2195px;;
